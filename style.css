@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(37, 35, 35);
+    color: white;
+    font-family: "Helvetica", sans-serif;
+}
+
+img{
+    height: 400px;
+    width: auto;
+}
+
+h3,ul li a,.links{
+    font-weight: bold;
+    color: darkgoldenrod;
+}
